@@ -73,10 +73,10 @@ Read the input image in color mode.
 ##  Program
 
 ### Developed By:
-**Name:** T.Goshanrajan
+**Name:** R. Abhinav Guru 
 
 ### Register No:
-212225040098
+212225040009
 
 ---
 ```
@@ -85,7 +85,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Read the image
-img = cv2.imread("car.jpg")
+img = cv2.imread("abi.jpeg")
 
 if img is None:
     print("Image not found!")
