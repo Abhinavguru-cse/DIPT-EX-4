@@ -250,7 +250,8 @@ plt.show()
 - Original image is displayed  
 - Translated image (shifted right and down) is displayed
 
-<img width="795" height="239" alt="image" src="https://github.com/user-attachments/assets/0d2ca20c-39b0-41ba-ae4b-622cc5a6ed89" />
+<img width="698" height="427" alt="image" src="https://github.com/user-attachments/assets/130fbe56-bc61-47cc-9b9c-bd66f88aefce" />
+
 
 
 ### Image Scaling
@@ -259,7 +260,7 @@ plt.show()
 - Upscaled image (2×) is displayed  
 
 
-<img width="1182" height="234" alt="image" src="https://github.com/user-attachments/assets/1ca0d6db-9dac-49bb-ab54-e8d8aa02f08d" />
+<img width="1096" height="427" alt="image" src="https://github.com/user-attachments/assets/66b0f385-7bd8-41c4-a7c5-7dca0530ff6d" />
 
 
 ### Image Shearing
@@ -268,7 +269,9 @@ plt.show()
 - Vertically sheared image is displayed  
 
 
-<img width="1182" height="348" alt="image" src="https://github.com/user-attachments/assets/fb164c74-c4aa-4c2a-927d-7229b58e294d" />
+
+<img width="1081" height="427" alt="image" src="https://github.com/user-attachments/assets/97e6b50a-8100-449e-be71-546b8658013b" />
+
 
 
 ### Image Reflection
@@ -278,7 +281,8 @@ plt.show()
 - Both-axis flipped image is displayed  
 
 
-<img width="795" height="659" alt="image" src="https://github.com/user-attachments/assets/8df581fd-21eb-474e-b93b-40433c445c33" />
+
+<img width="675" height="812" alt="image" src="https://github.com/user-attachments/assets/5cf9c18f-e662-4aa4-8834-4796b730a001" />
 
 
 ### Image Rotation
@@ -287,7 +291,8 @@ plt.show()
 - 90° rotated image is displayed
 
 
-<img width="1182" height="233" alt="image" src="https://github.com/user-attachments/assets/732788d4-e74d-473f-9e1c-8aed1b30134d" />
+
+<img width="1096" height="427" alt="image" src="https://github.com/user-attachments/assets/b8627083-883e-4a5f-8d65-2f781e582efc" />
 
 
 ---
